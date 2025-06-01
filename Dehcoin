@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="fa">
+<head>
+  <meta charset="UTF-8" />
+  <title>Dehcoin - توکن سولانا</title>
+  <style>
+    body {
+      font-family: Tahoma, sans-serif;
+      background: #f7f9fc;
+      text-align: center;
+      padding: 40px;
+    }
+    .container {
+      background: white;
+      max-width: 450px;
+      margin: auto;
+      border-radius: 12px;
+      box-shadow: 0 0 15px rgba(0,0,0,0.1);
+      padding: 30px;
+    }
+    h1 {
+      color: #2c3e50;
+    }
+    a {
+      color: #2980b9;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    p {
+      font-size: 18px;
+      color: #34495e;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Dehcoin</h1>
+    <p><strong>نماد توکن:</strong> Deh</p>
+    <p><strong>آدرس توکن:</strong> به زودی اضافه می‌شود</p>
+    <p><strong>درباره توکن:</strong> این توکن روی بلاک‌چین سولانا ساخته شده و به زودی اطلاعات بیشتری ارائه خواهد شد.</p>
+  </div>
+</body>
+</html>
